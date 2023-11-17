@@ -19,7 +19,7 @@ how_are_we_stranded_here requires the following packages be installed:
 
 kallisto == 0.44.x
 
-python >= 3.6.0
+3.6.0 <= python < 3.9
 
 RSeQC
 
